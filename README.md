@@ -108,7 +108,7 @@ Take a look at `index.html` and `students/student_name.html` in the browser. You
   * For instance, the branch would be titled `zoe-perez`.
   * Note: The `master` branch of a project is NEVER a place to do any work. `master` is considered the build and you never break the build. So make sure you are not working or committing to the `master` branch.
 
-* If you haven't already, switch to the branch you created. To make sure you're where you need to be, type `git branch` in your terminal. It should return the name of your assigned student emphazised with an asterisk and master.
+* If you haven't already, switch to the branch you created. To make sure you're where you need to be, type `git branch` in your terminal. It should return the name of your assigned student emphazised with an asterisk and master. The asterisk indicates which branch you're on. It should not be `master`.
   * For instance, typing `pwd` in the terminal would return:
 
 ```text
