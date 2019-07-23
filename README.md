@@ -190,7 +190,7 @@ index.html. Then click on "Open with" then the name of your favorite browser.
     the image source is identical to the name of the image file.
 
 * Once you've completed the profile, open up `index.html`. Use the assigned
-  ```<li></li>``` element as a template and fill it out for your fellow
+  `<li></li>` element as a template and fill it out for your fellow
   classmate.
 
 #### Stage and Commit Changes
