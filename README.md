@@ -16,13 +16,18 @@
 
 ## History
 
-Welcome to Flatiron! Every semester, we create student index pages to help in
-the process of getting to know each other! An index page looks something like
-[this](http://students.flatironschool.com/). Links from this page go to
-individual profiles, which look like
-[this](http://students.flatironschool.com/students/lauraconwill.html).  You will
-be making and deploying an index page that contains info for all of the people
-at your current table.  
+Welcome to Flatiron! One of the first tasks we do together as a cohort is create
+student info pages to help in the process of getting to know each other. You and
+your peers will be filling in these pages, which will be linked together through
+an index page displaying all students.
+
+An index page looks something like [this][index]. Links from this page go to
+individual profiles, which look like [this][profile]. You will be making and
+deploying an index page that contains info for all of the people at your current
+table.  
+
+[index]: https://web.archive.org/web/20171011234750/http://students.flatironschool.com/
+[profile]: https://curriculum-content.s3.amazonaws.com/module-1/deploy_one_day_one_profile.gif
 
 ## Assignment
 
